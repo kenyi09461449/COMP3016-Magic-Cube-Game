@@ -18,7 +18,7 @@ Code structure: The code I wrote is located in the 'src' directory
 | Entry Name  | Remark                                       |
 | ----------- | -------------------------------------------- |
 | Camera.h    | Create a camera                              |
-| Cube.h      | Build Magic Cube                             |
+| Cube.h      | Build Magic Cube   shape                         |
 | GlfWindow.h | Setting Viewports                            |
 | main1.cpp   | Main program                                 |
 | pch.h       | The direction and colors of the Rubik's Cube |
