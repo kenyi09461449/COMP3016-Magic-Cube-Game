@@ -50,6 +50,8 @@ Regarding interaction methods, in my initial plan. The operation method is:
  
 
 Left mouse button: Rotate this face 
+
+
 Right mouse button: Reverse rotate this face
 
  
