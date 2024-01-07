@@ -39,7 +39,8 @@ I initially studied and analyzed this opengl program:
 
 https://blog.csdn.net/wphkadn/article/details/105027482
 
- 
+ ![image](https://github.com/kenyi09461449/COMP3016-Magic-Cube-Game/assets/115618256/3ab4e6ad-1756-4a94-b916-ee01eeebfd9e)
+
 
 There is no user interaction in this program, and the Rubik's Cube will automatically rotate when after click once. I mainly analyzed and designed the shape and vector of the cube through this program. On this basis, I have added the function of player interaction with the Rubik's Cube and the ability to rotate and zoom the perspective.
 
