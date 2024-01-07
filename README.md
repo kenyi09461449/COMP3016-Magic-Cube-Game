@@ -50,14 +50,14 @@ Regarding interaction methods, in my initial plan. The operation method is:
  
 
 Left mouse button: Rotate this face 
-
 Right mouse button: Reverse rotate this face
 
  
 
 But I found several online Rubik's Cube games, and their operation methods are: 
 
-Use mouse button to drag and drop to rotate the layer of Cube. Such as:
+  Use mouse button to drag and drop to rotate the layer of Cube. 
+  Such as:
 
 
 
