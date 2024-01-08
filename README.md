@@ -11,7 +11,9 @@ Use the mouse scroll wheel to zoom in on the perspective.
 ![ClickExe](https://github.com/kenyi09461449/COMP3016-Magic-Cube-Game/assets/115618256/b1da5579-8c8e-420f-ae31-bde9edc46382)
 
 
-![image](https://github.com/kenyi09461449/COMP3016-Magic-Cube-Game/assets/115618256/25ea5350-f194-40cd-9641-b76424f84767)
+
+![image](https://github.com/kenyi09461449/COMP3016-Magic-Cube-Game/assets/115618256/b21b1a2a-6003-4454-a903-b4ab919ef61b)
+
 
 Code structure: The code I wrote is located in the 'src' directory
 
