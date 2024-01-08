@@ -42,7 +42,7 @@ https://blog.csdn.net/wphkadn/article/details/105027482
  ![image](https://img-blog.csdnimg.cn/20200322142310606.gif)
 
 
-There is no user interaction in this program, and the Rubik's Cube will automatically rotate when after click once. I mainly analyzed and designed the shape and vector of the cube through this program. On this basis, I have added the function of player interaction with the Rubik's Cube and the ability to rotate and zoom the perspective.
+There is no user interaction in this program, and the Rubik's Cube will automatically rotate when after click once. I mainly analyzed and designed the shape, matrix and vector of the cube through this program. On this basis, I have added the function of player interaction with the Rubik's Cube and the ability to rotate and zoom the perspective.
 
  
 
