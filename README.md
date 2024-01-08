@@ -1,3 +1,7 @@
+Demonstration video:
+
+https://youtu.be/FLyik084jWk
+
 Unzip 'exe. zip'
 
 Click 'Code.exe' file to run Rubik's cube game
